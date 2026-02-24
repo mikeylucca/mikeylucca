@@ -1,5 +1,5 @@
 # 💫 About Me:
-- I'm currently working as a compliance support engineer @ Microsoft.<br> - I'm passionate about gaming and game development.<br> - I'm currently looking to learn Python and ML. <br> - On my spare time, I love doing photography.
+- I'm currently working as a Sys Admin @ ONI PT <br> - I'm passionate about gaming and game development.<br> - I'm currently looking to learn Python and ML. <br> - On my spare time, I love doing photography.
 
 
 ## 🌐 Socials:
